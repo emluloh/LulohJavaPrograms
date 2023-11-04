@@ -14,7 +14,7 @@ public class Driver
         DelphiMethod delphi = new DelphiMethod();
         Round round1 = new Round();
         
-        String path = "dhillonRound1KMOData.txt"; // Replace if needed
+        String path = "Round1KMOData.txt"; // Replace if needed
         try (BufferedReader br = new BufferedReader(new FileReader(path)))
         {
             String line;
