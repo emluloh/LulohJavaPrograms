@@ -1,4 +1,4 @@
-// Hello name - Java 2A
+// Bulk Songs Purchase - Java 2A
 // Eileen Luloh - Sum '23
 
 
